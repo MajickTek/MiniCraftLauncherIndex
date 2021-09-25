@@ -2,7 +2,6 @@
 0 = 2.0.0,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev1.jar
 1 = 2.0.0,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev2.jar
 2 = 2.0.0,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev3.jar
-
 #2.0.1
 3 = 2.0.1,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev1.jar
 4 = 2.0.1,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev2.jar
@@ -13,12 +12,10 @@
 9 = 2.0.1,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev7.jar
 10 = 2.0.1,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev8.jar
 11 = 2.0.1,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev9.jar
-
 #2.0.2
 12 = 2.0.2,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev1.jar
 13 = 2.0.2,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev2.jar
 14 = 2.0.2,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev3.jar
-
 #2.0.3
 15 = 2.0.3,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev1.jar
 16 = 2.0.3,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev2.jar
@@ -26,7 +23,6 @@
 18 = 2.0.3,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev4.jar
 19 = 2.0.3,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev5.jar
 20 = 2.0.3,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev6.jar
-
 #2.0.4
 21 = 2.0.4,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev1.jar
 22 = 2.0.4,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev2.jar
@@ -37,7 +33,6 @@
 27 = 2.0.4,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev7.jar
 28 = 2.0.4,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev8.jar
 29 = 2.0.4,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev9.jar
-
 #2.0.5
 30 = 2.0.5,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev1.jar
 31 = 2.0.5,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev2.jar
@@ -45,13 +40,11 @@
 33 = 2.0.5,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev4.jar
 34 = 2.0.5,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev5.jar
 35 = 2.0.5,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev6.jar
-
 #2.0.6
 36 = 2.0.6,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev1.jar
 37 = 2.0.6,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev2.jar
 38 = 2.0.6,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev3.jar
 39 = 2.0.6,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev4.jar
-
 #2.0.7
 40 = 2.0.7,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev1.jar
 41 = 2.0.7,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version-dev$index/minicraft_plus_$version-dev2.jar
