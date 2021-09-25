@@ -1,0 +1,8 @@
+0 = 2.0.0,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version/minicraft_plus_$version_official.jar
+1 = 2.0.1,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version/minicraft_plus_$version_official.jar
+2 = 2.0.2,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version/minicraft_plus_$version_official.jar
+3 = 2.0.3,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version/minicraft_plus_$version_official.jar
+4 = 2.0.4,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version/minicraft_plus_$version_official.jar
+5 = 2.0.5,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version/minicraft_plus_$version_official.jar
+6 = 2.0.6,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version/minicraft_plus_$version_official.jar
+7 = 2.0.7,https://github.com/chrisj42/minicraft-plus-revived/releases/download/v$version/minicraft_plus-$version.jar
