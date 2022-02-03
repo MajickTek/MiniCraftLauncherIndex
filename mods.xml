@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<game name="InfinityTale">
+		<version number="1.0.0"></version>
+	</game>
+	<game name="MiniCraftExtended">
+		<version number="1.0.0"></version>
+	</game>
+	<game name="MiniCraftX">
+		<version number="1.0.0"></version>
+	</game>
+	<game name="CthulhuCraft">
+		<version number="0.05-beta"></version>
+	</game>
+	<game name="Aircraft">
+		<version number="0.4-pre"></version>
+	</game>
+</index>
