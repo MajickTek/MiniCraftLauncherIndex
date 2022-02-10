@@ -15,7 +15,7 @@ The format is standard XML. Here is a reference document with added comments:
 	</game>
 </index>
 ```
-# Format TODO
+## Format TODO
 Instead of having the entire text content of `<version>` be the download URL, there should be a structure allowing for download of other files.
 
 Maybe like this:
