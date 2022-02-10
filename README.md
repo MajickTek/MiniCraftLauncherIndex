@@ -3,16 +3,16 @@ Index files for my Minicraft+ launcher that supports mods. READ: MINICRAFT NOT M
 
 When making a pull request for a new game version, please add the line on top of all of the versions:
 ```
-3
-2
-1
+number="3"
+number="2"
+number="1"
 ```
 
 Instead of
 ```
-1
-2
-3
+number="1"
+number="2"
+number="3"
 ```
 
 # Format
