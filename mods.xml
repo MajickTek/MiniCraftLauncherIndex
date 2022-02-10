@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index>
 	<game name="InfinityTale">
-		<version number="?">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/InfinityTale/infinitytale.jar</version>
+		<version number="">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/InfinityTale/infinitytale.jar</version>
 	</game>
 	<game name="MiniCraftExtended">
-		<version number="?">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MiniCraft%20X/Minicraft_extended_by_GDavid.jar</version>
+		<version number="">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MiniCraft%20X/Minicraft_extended_by_GDavid.jar</version>
 	</game>
 	<game name="MiniCraftX">
-		<version number="?">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MiniCraft%20X/MiniCraft_X.jar</version>
+		<version number="">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MiniCraft%20X/MiniCraft_X.jar</version>
 	</game>
 	<game name="CthulhuCraft">
 		<version number="0.05-beta">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05a-Beta/CthulhuCraft.Beta.0.05.jar</version>
