@@ -5,8 +5,6 @@
 	</game>
 	<game name="MiniCraft">
 		<version number="Extended">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MiniCraft%20X/Minicraft_extended_by_GDavid.jar</version>
-	</game>
-	<game name="MiniCraft">
 		<version number="X">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MiniCraft%20X/MiniCraft_X.jar</version>
 	</game>
 	<game name="CthulhuCraft">
