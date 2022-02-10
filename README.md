@@ -17,4 +17,4 @@ The format is standard XML. Here is a reference document with added comments:
 ```
 
 ## Other
-The folder labeled `jars` replaces my Google drive archive and contains old mods and some old tools.
+The folder labeled `jars` replaces my Google Drive archive and contains old mods and some old tools.
