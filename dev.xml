@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index>
 	<game name="MiniCraft+">
-		<version number="2.0.0-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev1/minicraft_plus_2.0.0-dev1.jar</version>
-		<version number="2.0.0-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev2/minicraft_plus_2.0.0-dev2.jar</version>
-		<version number="2.0.0-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev3/minicraft_plus_2.0.0-dev3.jar</version>
-		
-		<version number="2.0.1-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev1/minicraft_plus_2.0.1-dev1.jar</version>
-		<version number="2.0.1-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev2/minicraft_plus_2.0.1-dev2.jar</version>
-		<version number="2.0.1-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev3/minicraft_plus_2.0.1-dev3.jar</version>
-		<version number="2.0.1-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev4/minicraft_plus_2.0.1-dev4.jar</version>
-		<version number="2.0.1-dev5">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev5/minicraft_plus_2.0.1-dev5.jar</version>
-		<version number="2.0.1-dev6">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev6/minicraft_plus_2.0.1-dev6.jar</version>
-		<version number="2.0.1-dev7">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev7/minicraft_plus_2.0.1-dev7.jar</version>
-		<version number="2.0.1-dev8">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev8/minicraft_plus_2.0.1-dev8.jar</version>
-		<version number="2.0.1-dev9">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev9/minicraft_plus_2.0.1-dev9.jar</version>
-		
-		<version number="2.0.2-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev1/minicraft_plus_2.0.2-dev1.jar</version>
-		<version number="2.0.2-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev2/minicraft_plus_2.0.2-dev2.jar</version>
-		<version number="2.0.2-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev3/minicraft_plus_2.0.2-dev3.jar</version>
-		
-		<version number="2.0.3-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev1/minicraft_plus_2.0.3-dev1.jar</version>
-		<version number="2.0.3-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev2/minicraft_plus_2.0.3-dev2.jar</version>
-		<version number="2.0.3-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev3/minicraft_plus_2.0.3-dev3.jar</version>
-		<version number="2.0.3-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev4/minicraft_plus_2.0.3-dev4.jar</version>
-		<version number="2.0.3-dev5">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev5/minicraft_plus_2.0.3-dev5.jar</version>
-		<version number="2.0.3-dev6">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev6/minicraft_plus_2.0.3-dev6.jar</version>
-		
-		<version number="2.0.4-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev1.jar</version>
-		<version number="2.0.4-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev2/minicraft_plus_2.0.4-dev2.jar</version>
-		<version number="2.0.4-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev3/minicraft_plus_2.0.4-dev3.jar</version>
-		<version number="2.0.4-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev4/minicraft_plus_2.0.4-dev4.jar</version>
-		<version number="2.0.4-dev5">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev5/minicraft_plus_2.0.4-dev5.jar</version>
-		<version number="2.0.4-dev6">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev6/minicraft_plus_2.0.4-dev6.jar</version>
-		<version number="2.0.4-dev7">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev7/minicraft_plus_2.0.4-dev7.jar</version>
-		<version number="2.0.4-dev8">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev8/minicraft_plus_2.0.4-dev8.jar</version>
-		<version number="2.0.4-dev9">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev9/minicraft_plus_2.0.4-dev9.jar</version>
-		
-		<version number="2.0.5-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev1/minicraft_plus_2.0.5-dev1.jar</version>
-		<version number="2.0.5-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev2/minicraft_plus_2.0.5-dev2.jar</version>
-		<version number="2.0.5-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev3/minicraft_plus_2.0.5-dev3.jar</version>
-		<version number="2.0.5-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev4/minicraft_plus_2.0.5-dev4.jar</version>
-		<version number="2.0.5-dev5">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev5/minicraft_plus_2.0.5-dev5.jar</version>
-		<version number="2.0.5-dev6">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev6/minicraft_plus_2.0.5-dev6.jar</version>
-		
-		<version number="2.0.6-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev1/minicraft_plus_2.0.6-dev1.jar</version>
-		<version number="2.0.6-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev2/minicraft_plus_2.0.6-dev2.jar</version>
-		<version number="2.0.6-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev3/minicraft_plus_2.0.6-dev3.jar</version>
-		<version number="2.0.6-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev4/minicraft_plus_2.0.6-dev4.jar</version>
-		
-		<version number="2.0.7-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev1/minicraft_plus_2.0.7-dev1.jar</version>
-		<version number="2.0.7-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev2/minicraft_plus_2.0.7-dev2.jar</version>
-		<version number="2.0.7-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev3/minicraft_plus_2.0.7-dev3.jar</version>
-		<version number="2.0.7-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev4/minicraft_plus_2.0.7-dev4.jar</version>
-		
 		<version number="2.1.0-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.0-dev1/minicraft_plus-2.1.0-dev1.jar</version>
+		
+		<version number="2.0.7-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev4/minicraft_plus_2.0.7-dev4.jar</version>
+		<version number="2.0.7-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev3/minicraft_plus_2.0.7-dev3.jar</version>
+		<version number="2.0.7-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev2/minicraft_plus_2.0.7-dev2.jar</version>
+		<version number="2.0.7-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.7-dev1/minicraft_plus_2.0.7-dev1.jar</version>
+		
+		<version number="2.0.6-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev4/minicraft_plus_2.0.6-dev4.jar</version>
+		<version number="2.0.6-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev3/minicraft_plus_2.0.6-dev3.jar</version>
+		<version number="2.0.6-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev2/minicraft_plus_2.0.6-dev2.jar</version>
+		<version number="2.0.6-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.6-dev1/minicraft_plus_2.0.6-dev1.jar</version>
+		
+		<version number="2.0.5-dev6">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev6/minicraft_plus_2.0.5-dev6.jar</version>
+		<version number="2.0.5-dev5">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev5/minicraft_plus_2.0.5-dev5.jar</version>
+		<version number="2.0.5-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev4/minicraft_plus_2.0.5-dev4.jar</version>
+		<version number="2.0.5-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev3/minicraft_plus_2.0.5-dev3.jar</version>
+		<version number="2.0.5-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev2/minicraft_plus_2.0.5-dev2.jar</version>
+		<version number="2.0.5-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.5-dev1/minicraft_plus_2.0.5-dev1.jar</version>
+		
+		<version number="2.0.4-dev9">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev9/minicraft_plus_2.0.4-dev9.jar</version>
+		<version number="2.0.4-dev8">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev8/minicraft_plus_2.0.4-dev8.jar</version>
+		<version number="2.0.4-dev7">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev7/minicraft_plus_2.0.4-dev7.jar</version>
+		<version number="2.0.4-dev6">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev6/minicraft_plus_2.0.4-dev6.jar</version>
+		<version number="2.0.4-dev5">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev5/minicraft_plus_2.0.4-dev5.jar</version>
+		<version number="2.0.4-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev4/minicraft_plus_2.0.4-dev4.jar</version>
+		<version number="2.0.4-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev3/minicraft_plus_2.0.4-dev3.jar</version>
+		<version number="2.0.4-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev2/minicraft_plus_2.0.4-dev2.jar</version>
+		<version number="2.0.4-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.4-dev1/minicraft_plus_2.0.4-dev1.jar</version>
+		
+		<version number="2.0.3-dev6">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev6/minicraft_plus_2.0.3-dev6.jar</version>
+		<version number="2.0.3-dev5">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev5/minicraft_plus_2.0.3-dev5.jar</version>
+		<version number="2.0.3-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev4/minicraft_plus_2.0.3-dev4.jar</version>
+		<version number="2.0.3-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev3/minicraft_plus_2.0.3-dev3.jar</version>
+		<version number="2.0.3-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev2/minicraft_plus_2.0.3-dev2.jar</version>
+		<version number="2.0.3-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.3-dev1/minicraft_plus_2.0.3-dev1.jar</version>
+		
+		<version number="2.0.2-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev3/minicraft_plus_2.0.2-dev3.jar</version>
+		<version number="2.0.2-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev2/minicraft_plus_2.0.2-dev2.jar</version>
+		<version number="2.0.2-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.2-dev1/minicraft_plus_2.0.2-dev1.jar</version>
+		
+		<version number="2.0.1-dev9">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev9/minicraft_plus_2.0.1-dev9.jar</version>
+		<version number="2.0.1-dev8">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev8/minicraft_plus_2.0.1-dev8.jar</version>
+		<version number="2.0.1-dev7">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev7/minicraft_plus_2.0.1-dev7.jar</version>
+		<version number="2.0.1-dev6">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev6/minicraft_plus_2.0.1-dev6.jar</version>
+		<version number="2.0.1-dev5">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev5/minicraft_plus_2.0.1-dev5.jar</version>
+		<version number="2.0.1-dev4">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev4/minicraft_plus_2.0.1-dev4.jar</version>
+		<version number="2.0.1-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev3/minicraft_plus_2.0.1-dev3.jar</version>
+		<version number="2.0.1-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev2/minicraft_plus_2.0.1-dev2.jar</version>
+		<version number="2.0.1-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1-dev1/minicraft_plus_2.0.1-dev1.jar</version>
+		
+		<version number="2.0.0-dev3">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev3/minicraft_plus_2.0.0-dev3.jar</version>
+		<version number="2.0.0-dev2">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev2/minicraft_plus_2.0.0-dev2.jar</version>
+		<version number="2.0.0-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0-dev1/minicraft_plus_2.0.0-dev1.jar</version>
 	</game>
 </index>
