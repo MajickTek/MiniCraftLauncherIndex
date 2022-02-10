@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index>
 	<game name="MiniCraft+">
-		<version number="2.0.0"></version>
-		<version number="2.0.1"></version>
-		<version number="2.0.2"></version>
-		<version number="2.0.3"></version>
-		<version number="2.0.4"></version>
-		<version number="2.0.5"></version>
-		<version number="2.0.6"></version>
-		<version number="2.0.7"></version>
+		<version number="2.0.0">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.0/minicraft_plus_2.0.0_official.jar</version>
+		<version number="2.0.1">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.1/minicraft_plus_2.0.1_official.jar</version>
+		<version number="2.0.2">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.2/minicraft_plus_2.0.2_official.jar</version>
+		<version number="2.0.3">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.3/minicraft_plus_2.0.3_official.jar</version>
+		<version number="2.0.4">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.4/minicraft_plus_2.0.4_official.jar</version>
+		<version number="2.0.5">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.5/minicraft_plus_2.0.5_official.jar</version>
+		<version number="2.0.6">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.6/minicraft_plus_2.0.6_official.jar</version>
+		<version number="2.0.7">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.7/minicraft_plus_2.0.7.jar</version>
 	</game>
 	
 </index>
