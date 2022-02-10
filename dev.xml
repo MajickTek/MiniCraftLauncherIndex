@@ -52,5 +52,7 @@
 		<version number="2.0.7-dev2">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.7-dev2/minicraft_plus_2.0.7-dev2.jar</version>
 		<version number="2.0.7-dev3">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.7-dev3/minicraft_plus_2.0.7-dev3.jar</version>
 		<version number="2.0.7-dev4">https://github.com/chrisj42/minicraft-plus-revived/releases/download/v2.0.7-dev4/minicraft_plus_2.0.7-dev4.jar</version>
+		
+		<version number="2.1.0-dev1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.0-dev1/minicraft_plus-2.1.0-dev1.jar</version>
 	</game>
 </index>
