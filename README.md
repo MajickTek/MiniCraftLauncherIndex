@@ -15,6 +15,16 @@ The format is standard XML. Here is a reference document with added comments:
 	</game>
 </index>
 ```
+# Format TODO
+Instead of having the entire text content of `<version>` be the download URL, there should be a structure allowing for download of other files.
 
+Maybe like this:
+```XML
+<version number="0.0.1">
+	<jar>https://example.com/game.jar</jar>
+	<download>https://example.com/options.txt</download>
+	<download>https://example.com/textures.zip</download
+</version>
+```
 ## Other
 The folder labeled `jars` replaces my Google Drive archive and contains old mods and some old tools.
