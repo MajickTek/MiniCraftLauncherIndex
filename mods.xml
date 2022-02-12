@@ -11,7 +11,7 @@
 		<version number="0.05-beta">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05a-Beta/CthulhuCraft.Beta.0.05.jar</version>
 	</game>
 	<game name="Aircraft">
-		<version number="0.4-pre">https://github.com/TheBigEye/Aircraft-Mod/releases/download/v0.0.4-pre/Aircraft.jar</version>
+		<version number="0.4">https://github.com/TheBigEye/Aircraft/releases/download/v0.0.4/Aircraft.jar</version>
 	</game>
 	<game name="MiniCraft Square">
 		<version number="1.6.0">https://github.com/pelletsstarPL/Minicraft-Square/releases/download/v1.6/minicraft_square-1.6.0.jar</version>
