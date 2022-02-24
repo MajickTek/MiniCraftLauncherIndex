@@ -1,19 +1,6 @@
 # MiniCraftLauncherIndex
 Index files for my Minicraft+ launcher that supports mods. READ: MINICRAFT NOT MINECRAFT
 
-When making a pull request for a new game version, please add the line on top of all of the versions:
-```
-number="3"
-number="2"
-number="1"
-```
-
-Instead of
-```
-number="1"
-number="2"
-number="3"
-```
 
 # Format
 The format is standard XML. Here is a reference document with added comments:
@@ -29,6 +16,22 @@ The format is standard XML. Here is a reference document with added comments:
 	</game>
 </index>
 ```
+
+
+When making a pull request for a new game version, please add the line on top of all of the versions:
+```
+number="3"
+number="2"
+number="1"
+```
+
+Instead of
+```
+number="1"
+number="2"
+number="3"
+```
+
 ## Format TODO
 Instead of having the entire text content of `<version>` be the download URL, there should be a structure allowing for download of other files.
 
