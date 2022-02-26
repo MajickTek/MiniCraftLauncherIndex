@@ -18,19 +18,9 @@ The format is standard XML. Here is a reference document with added comments:
 ```
 
 
-When making a pull request for a new game version, please add the line on top of all of the versions:
-```
-number="3"
-number="2"
-number="1"
-```
+When making a pull request for a new game version, the newest version always should be added to the top of the list.
 
-Instead of
-```
-number="1"
-number="2"
-number="3"
-```
+The only excpetion to this is `mods.xml`, unless you add multiple versions of the same mod.
 
 ## Format TODO
 Instead of having the entire text content of `<version>` be the download URL, there should be a structure allowing for download of other files.
