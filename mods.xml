@@ -8,7 +8,13 @@
 		<version number="X">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MiniCraft%20X/MiniCraft_X.jar</version>
 	</game>
 	<game name="CthulhuCraft">
-		<version number="0.05-beta">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05a-Beta/CthulhuCraft.Beta.0.05.jar</version>
+		<version number="0.05a">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05a-Beta/CthulhuCraft.Beta.0.05.jar</version>
+		<version number="0.05_3a">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05_3a-Beta/CthulhuCraft.Beta.0.05_3a.jar</version>
+		<version number="0.05_2a">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05_2a-Beta/CthulhuCraft.Beta.0.05_2a.jar</version>
+		<version number="0.05_1a">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05_1a-Beta/CthulhuCraft.Beta.0.05_1a.jar</version>
+		<version number="0.04a">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.04a-Beta/CthulhuCraft.Beta.0.04a.jar</version>
+		<version number="0.03a">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.03a-Beta/CthulhuCraft.Beta.0.03a.jar</version>
+		<version number="0.02a">https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.02a-Beta/CthulhuCraft.Beta.0.02a.jar</version>
 	</game>
 	<game name="Aircraft">
 		<version number="0.4 part 2">https://github.com/TheBigEye/Aircraft/releases/download/v0.0.4/Aircraft.jar</version>
