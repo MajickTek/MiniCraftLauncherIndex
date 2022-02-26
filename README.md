@@ -45,3 +45,5 @@ Maybe like this:
 ```
 ## Other
 The folder labeled `jars` replaces my Google Drive archive and contains old mods and some old tools.
+
+The file called `version.properties` is an experiment to see if i can make version checking for the XML format.
