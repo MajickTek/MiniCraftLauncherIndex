@@ -10,5 +10,7 @@
 		<version number="2.0.1">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.1/minicraft_plus_2.0.1_official.jar</version>
 		<version number="2.0.0">https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.0.0/minicraft_plus_2.0.0_official.jar</version>
 	</game>
-	
+	<game name="MiniCraft">
+		<version number="original">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/minicraft_classic_mods_fixed/minicraft-official/game.jar</version>
+	</game>
 </index>
