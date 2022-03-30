@@ -1,3 +1,4 @@
 0 = https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/release.xml
 1 = https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/dev.xml
 2 = https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/mods.xml
+3 = https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/tools.xml
