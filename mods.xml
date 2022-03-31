@@ -25,5 +25,7 @@
 	</game>
 	<game name="MiniCraft Square">
 		<version number="1.6.0">https://github.com/pelletsstarPL/Minicraft-Square/releases/download/v1.6/minicraft_square-1.6.0.jar</version>
+		<version number="1.7.0">https://github.com/pelletsstarPL/Minicraft-Square/releases/download/v1.7/minicraft_square-1.7.0.jar</version>
+		<version number="1.8.0">https://github.com/pelletsstarPL/Minicraft-Square/releases/download/v1.8/minicraft_square-1.8.0.jar</version>
 	</game>
 </index>
