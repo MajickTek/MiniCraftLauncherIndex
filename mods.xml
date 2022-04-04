@@ -23,7 +23,15 @@
 		<version number="0.2">https://github.com/TheBigEye/Aircraft/releases/download/v0.02/Aircraft.jar</version>
 		<version number="0.1">https://github.com/TheBigEye/Aircraft/releases/download/v0.01/Aircraft.jar</version>
 	</game>
-	<game name="MiniCraft Square">
-		<version number="1.6.0">https://github.com/pelletsstarPL/Minicraft-Square/releases/download/v1.6/minicraft_square-1.6.0.jar</version>
+	<game name="MiniCraft Squared">
+		<version number="1.0.0">https://github.com/pelletsstarPL/Minicraft-squared/releases/download/minicraftMod/minicraft_square.jar</version>
+		<version number="1.1.0">https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.1/minicraft_square-1.1.0.jar</version>
+		<version number="1.2.0">https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.2/minicraft_square-1.2.0.jar</version>
+		<version number="1.4.0">https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.4/minicraft_square-1.4.0.jar</version>
+		<version number="1.5.0">https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.5/minicraft_square-1.5.0.jar</version>
+		<version number="1.6.0">https://github.com/pelletsstarPL/Minicraft-Squared/releases/download/v1.6/minicraft_square-1.6.0.jar</version>
+		<version number="1.7.0">https://github.com/pelletsstarPL/Minicraft-Squared/releases/download/v1.7/minicraft_square-1.7.0.jar</version>
+		<version number="1.8.0">https://github.com/pelletsstarPL/Minicraft-Squared/releases/download/v1.8/minicraft_square-1.8.0.jar</version>
+		<version number="1.9.0">https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.9/minicraft_square-1.9.0.jar</version>
 	</game>
 </index>
