@@ -36,4 +36,7 @@
 		<version number="1.8.0">https://github.com/pelletsstarPL/Minicraft-Squared/releases/download/v1.8/minicraft_square-1.8.0.jar</version>
 		<version number="1.9.0">https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.9/minicraft_square-1.9.0.jar</version>
 	</game>
+	<game name="MiniCraft Red">
+		<version number="1.0.0">https://github.com/itayfeder/Minicraft-Red/releases/download/Release-1.0.0/minicraft_red-1.0.0.jar</version>
+	</game>
 </index>
