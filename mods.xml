@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--These are "standalone" mods, also known as full-game conversions. They don't require Fabric or any other modloader.-->
+<!--The launcher does not have a mechanism for distributing loader mods yet.-->
 <index>
 	<game name="InfinityTale">
 		<version number="1.1.0">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/InfinityTale/infinitytale.jar</version>
