@@ -8,7 +8,7 @@ Right now only games that live inside a single jar file will work properly (no Z
 In the future, this repo should be versioned along with the launcher so that either old versions continue to work, or old versions are prevented from working with a dialog suggesting an update.
 
 # Format
-Please see the [wiki](https://github.com/MajickTek/MiniCraftLauncherIndex/wiki) for information about the current formats.
+[Index XML Format](https://github.com/MajickTek/MiniCraftLauncherIndex/wiki/Index-XML).
 
 ## Other
 The folder labeled `jars` replaces my Google Drive archive and contains old mods and some old tools.
