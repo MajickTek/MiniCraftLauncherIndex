@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Root-->
 <repo>
-   <index name="Release">
-      <url target="release.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/release.xml</url>
-   </index>
-   <index name="Pre-Release">
-      <url target="dev.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/dev.xml</url>
+   <index name="MinicraftPlus (Launcher 1.6.2)">
+      <url target="1.6.2.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/release.xml</url>
    </index>
    <index name="Standalone Mods">
       <url target="mods.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/mods.xml</url>
