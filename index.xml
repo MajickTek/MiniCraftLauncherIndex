@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<repo><!--Root-->
-	<index name="Release">
-    <url target="release.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/release.xml</url>
-	</index>
-  <index name="Pre-Release">
-    <url target="dev.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/dev.xml</url>
-  </index>
-  <index name="Standalone Mods">
-    <url target="mods.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/mods.xml</url>
-  </index>
-  <index name="Old Tools">
-    <url target="tools.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/tools.xml</url>
-  </index>
+<!--Root-->
+<repo>
+   <index name="Release">
+      <url target="release.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/release.xml</url>
+   </index>
+   <index name="Pre-Release">
+      <url target="dev.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/dev.xml</url>
+   </index>
+   <index name="Standalone Mods">
+      <url target="mods.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/mods.xml</url>
+   </index>
+   <index name="Old Tools">
+      <url target="tools.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/tools.xml</url>
+   </index>
 </repo>
