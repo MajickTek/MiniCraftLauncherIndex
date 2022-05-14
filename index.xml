@@ -10,4 +10,5 @@
    <index name="Standalone Mods">
       <url target="mods.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/mods.xml</url>
    </index>
+   <index name="test"></index>
 </repo>
