@@ -2,7 +2,7 @@
 <!--Root-->
 <repo>
    <index name="MinicraftPlus (Launcher 1.6.2)">
-      <url target="1.6.2.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/release.xml</url>
+      <url target="1.6.2.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/1.6.2.xml</url>
    </index>
    <index name="Standalone Mods">
       <url target="mods.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/mods.xml</url>
