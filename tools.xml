@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<index>
-	<game name="MiniSpriter">
-		<version number="MiniSpriter">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MiniSpriter.jar</version>
-	</game>
-	<game name="Old Launcher">
-    <version number="MinicraftLauncher-old">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/MinicraftLauncher-old.jar</version>
-  </game>
-</index>
