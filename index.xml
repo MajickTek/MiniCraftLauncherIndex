@@ -10,7 +10,4 @@
    <index name="Standalone Mods">
       <url target="mods.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/mods.xml</url>
    </index>
-   <index name="Old Tools">
-      <url target="tools.xml">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/tools.xml</url>
-   </index>
 </repo>
