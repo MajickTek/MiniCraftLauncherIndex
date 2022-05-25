@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index>
+	<!--This file only exists for backwards compatibility for Launcher versions that use index.txt or index.xml. Versions higher than 1.6.2 don't use XML at all.-->
   <game name="MiniCraft">
 		<version number="original">https://github.com/MajickTek/MiniCraftLauncherIndex/raw/main/jars/minicraft_classic_mods_fixed/minicraft-official/game.jar</version>
 	</game>
